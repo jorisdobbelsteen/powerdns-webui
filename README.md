@@ -6,12 +6,12 @@ This project has no connection whatsoever with [PowerDNS.COM BV](https://www.pow
 It is an independently funded & maintained development effort.
 
 
-# First Issue
+# Discussions
 
-I've open a [first issue](https://github.com/james-stevens/powerdns-webui/issues/18) called `Just for Chatting`,
-so if you want to leave any comments or feedback without opening your own issue, you can use this.
+Github now has a `discussions` feature, so I have enabled it on this project. Please use this to leave
+any ad-hoc feedback or raise minor issues / enhancement requests etc
 
-If you know of a better way to achieve this fiunctionality, please let me know. I couldn't find any kind of aimless chat feature.
+Or just stop by to say `hello` or `thanks`.
 
 
 
@@ -183,7 +183,7 @@ However, it means all your data, and your API key, will be sent in plain text.
 # Don't Worry There's a Docker Container
 
 For those who want the extra security provided by HTTPS and per-user authentication, but are troubled by
-the effort of setting it up yourself, don't worry there's a Docker container.
+the effort of setting it up yourself, don't worry there's a [Docker container](https://hub.docker.com/r/jamesstevens/pdns-webui) called `jamesstevens/pdns-webui`.
 
 There are a few caveats, and things you'll probably want to change, so there's also a `README` in the `container` directory.
 
